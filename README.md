@@ -1,4 +1,4 @@
-# MERN Stack Project:Twitter clone threads | JWT, Socket.io
+
 
 ![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
 
